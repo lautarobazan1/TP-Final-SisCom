@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\lauta\Desktop\TP SisCom\hardware\pcb\NodoIntegrador.kicad_sch</source>
+    <date>2026-10-25T13:34:15</date>
+    <tool>Eeschema 10.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Nodo remoto - PCB integradora</title>
+        <company/>
+        <rev>0.1</rev>
+        <date>2026-10-25</date>
+        <source>NodoIntegrador.kicad_sch</source>
+        <comment number="1" value="ANTEPROYECTO - NO FABRICAR"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Anteproyecto" part="C" description=""/>
+      <property name="Sheetname" value="NodoIntegrador"/>
+      <property name="Sheetfile" value="NodoIntegrador.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39658a46-d134-51e0-9c96-d2f5b9486f1e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Anteproyecto" part="C" description=""/>
+      <property name="Sheetname" value="NodoIntegrador"/>
+      <property name="Sheetfile" value="NodoIntegrador.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61b1b118-bd34-5282-b58f-2caf2f36da69</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="H1">
+      <value>M3 3.2mm</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <fields>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Anteproyecto" part="MountingHole" description=""/>
+      <property name="Sheetname" value="NodoIntegrador"/>
+      <property name="Sheetfile" value="NodoIntegrador.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c5a75a4-24bc-5311-b54a-6fd619f7512c</tstamps>
+      <units>
+        <unit name="A">
+          <pins/>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="H2">
+      <value>M3 3.2mm</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <fields>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Anteproyecto" part="MountingHole" description=""/>
+      <property name="Sheetname" value="NodoIntegrador"/>
+      <property name="Sheetfile" value="NodoIntegrador.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af04454b-d67d-5ef1-a012-3acd000a0fee</tstamps>
+      <units>
+        <unit name="A">
+          <pins/>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="H3">
+      <value>M3 3.2mm</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <fields>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Anteproyecto" part="MountingHole" description=""/>
+      <property name="Sheetname" value="NodoIntegrador"/>
+      <property name="Sheetfile" value="NodoIntegrador.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d96b9e6b-f5f1-51f2-926d-e46f7527738a</tstamps>
+      <units>
+        <unit name="A">
+          <pins/>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="H4">
+      <value>M3 3.2mm</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <fields>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Anteproyecto" part="MountingHole" description=""/>
+      <property name="Sheetname" value="NodoIntegrador"/>
+      <property name="Sheetfile" value="NodoIntegrador.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1dbb6b49-1bb5-5f44-aa40-d5c3f4f832ce</tstamps>
+      <units>
+        <unit name="A">
+          <pins/>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J1">
+      <value>BATERIA 1S PROTEGIDA</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Anteproyecto" part="BAT_IN" description=""/>
+      <property name="Sheetname" value="NodoIntegrador"/>
+      <property name="Sheetfile" value="NodoIntegrador.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dae466fc-aa74-52db-bf59-21e6427f0934</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J2">
+      <value>A BAT DEL RADIO NODE</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Anteproyecto" part="BAT_OUT" description=""/>
+      <property name="Sheetname" value="NodoIntegrador"/>
+      <property name="Sheetfile" value="NodoIntegrador.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>240329e7-725c-5a66-a4aa-aa2ea471783b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J3">
+      <value>BUS RADIO NODE / ARNES</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Anteproyecto" part="NODE_BUS" description=""/>
+      <property name="Sheetname" value="NodoIntegrador"/>
+      <property name="Sheetfile" value="NodoIntegrador.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9a9ec1b-3f54-5e5c-92a0-ebb05c9668bb</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="5"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J4">
+      <value>BME280 / CABEZAL</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Anteproyecto" part="SENSOR_BUS" description=""/>
+      <property name="Sheetname" value="NodoIntegrador"/>
+      <property name="Sheetfile" value="NodoIntegrador.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>651d4a32-062c-5700-894f-1886dea3ee3a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J5">
+      <value>INTERRUPTOR INTERNO</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Anteproyecto" part="SWITCH" description=""/>
+      <property name="Sheetname" value="NodoIntegrador"/>
+      <property name="Sheetfile" value="NodoIntegrador.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f14f3ca-3770-54b1-b657-79074571eba0</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R1">
+      <value>150k 1%</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Anteproyecto" part="R" description=""/>
+      <property name="Sheetname" value="NodoIntegrador"/>
+      <property name="Sheetfile" value="NodoIntegrador.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be256b38-e0bb-5111-8e5a-61f20c72d0a8</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R2">
+      <value>150k 1%</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Anteproyecto" part="R" description=""/>
+      <property name="Sheetname" value="NodoIntegrador"/>
+      <property name="Sheetfile" value="NodoIntegrador.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>810dd9fb-6f52-59ee-8509-a033ecf3753d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R3">
+      <value>4k7 DNP</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Anteproyecto" part="R" description=""/>
+      <property name="Sheetname" value="NodoIntegrador"/>
+      <property name="Sheetfile" value="NodoIntegrador.kicad_sch"/>
+      <property name="dnp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe25ca74-709a-5c89-883e-fae2c5aa2660</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R4">
+      <value>4k7 DNP</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Anteproyecto" part="R" description=""/>
+      <property name="Sheetname" value="NodoIntegrador"/>
+      <property name="Sheetfile" value="NodoIntegrador.kicad_sch"/>
+      <property name="dnp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ae522b4-a641-54b6-aa69-376ecf2ce37a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Anteproyecto" part="BAT_IN">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">BAT_IN</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="BAT_PROT" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Anteproyecto" part="BAT_OUT">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">BAT_OUT</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VBAT_SW" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Anteproyecto" part="C">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Anteproyecto" part="MountingHole">
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+    </libpart>
+    <libpart lib="Anteproyecto" part="NODE_BUS">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">NODE_BUS</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="3V3" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="SDA" type="passive"/>
+        <pin num="4" name="SCL" type="passive"/>
+        <pin num="5" name="VBAT_ADC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Anteproyecto" part="R">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Anteproyecto" part="SENSOR_BUS">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SENSOR_BUS</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="3V3" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="SDA" type="passive"/>
+        <pin num="4" name="SCL" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Anteproyecto" part="SWITCH">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SWITCH</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="BAT_PROT" type="passive"/>
+        <pin num="2" name="VBAT_SW" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Anteproyecto">
+      <uri>${KIPRJMOD}/Anteproyecto.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/3V3" class="Default">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="3V3_1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="3V3_1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="2" name="/BAT_PROT" class="Default">
+      <node ref="J1" pin="1" pinfunction="BAT_PROT_1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="BAT_PROT_1" pintype="passive"/>
+    </net>
+    <net code="3" name="/GND" class="Default">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="GND_2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="GND_2" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="GND_2" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="GND_2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="/SCL" class="Default">
+      <node ref="J3" pin="4" pinfunction="SCL_4" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="SCL_4" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="/SDA" class="Default">
+      <node ref="J3" pin="3" pinfunction="SDA_3" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="SDA_3" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="/VBAT_ADC" class="Default">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J3" pin="5" pinfunction="VBAT_ADC_5" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="/VBAT_SW" class="Default">
+      <node ref="J2" pin="1" pinfunction="VBAT_SW_1" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="VBAT_SW_2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+  </nets>
+</export>

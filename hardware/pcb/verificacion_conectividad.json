@@ -1,0 +1,13 @@
+{
+  "componentes_electricos": 11,
+  "fijaciones": 4,
+  "pines_conectados": 27,
+  "redes": 7,
+  "conectividad_esquema_pcb_coincide": true,
+  "pistas": 0,
+  "ERC_infracciones": 0,
+  "DRC_violaciones_geometricas": 0,
+  "DRC_problemas_paridad": 0,
+  "DRC_conexiones_sin_rutear": 20,
+  "fabricacion_habilitada": false
+}

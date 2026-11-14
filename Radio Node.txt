@@ -1,0 +1,45 @@
+#include <SPI.h>
+#include <LoRa.h>
+
+// Pines específicos para LoRa Radio Node v1.0
+const int csPin = 10;          // Chip Select
+const int resetPin = 9;        // Reset
+const int irqPin = 2;          // DIO0 Interrupt
+
+void setup() {
+  Serial.begin(9600);
+  while (!Serial);
+
+  Serial.println("Iniciando LoRa...");
+
+  // Asignar los pines antes de iniciar
+  LoRa.setPins(csPin, resetPin, irqPin);
+
+  // Iniciar en 915 MHz
+  if (!LoRa.begin(915E6)) {
+    Serial.println("Error: Fallo al iniciar el chip LoRa.");
+    while (1);
+  }
+
+  // Configuraciones para emparejar con la Heltec
+  LoRa.setSyncWord(0x12);           // Sync Word privada
+  LoRa.setSpreadingFactor(7);        // SF7
+  LoRa.setSignalBandwidth(125E3);   // 125 kHz
+  LoRa.setCodingRate4(5);           // 4/5
+  LoRa.setTxPower(14);              // Potencia en dBm
+
+  Serial.println("LoRa listo y transmitiendo!");
+}
+
+void loop() {
+  Serial.print("Enviando paquete... ");
+
+  // Enviar mensaje
+  LoRa.beginPacket();
+  LoRa.print("Hola Heltec!");
+  LoRa.endPacket();
+
+  Serial.println("Enviado.");
+
+  delay(5000);
+}

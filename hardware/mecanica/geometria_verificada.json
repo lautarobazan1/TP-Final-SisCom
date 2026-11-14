@@ -1,0 +1,14 @@
+{
+  "estado": "ANTEPROYECTO",
+  "bandeja_solidos": 1,
+  "bandeja_valida": true,
+  "bandeja_mm": [
+    88.0,
+    58.0,
+    9.0
+  ],
+  "objetos": 10,
+  "geometrias_validas": true,
+  "soporte_capsula_resuelto": false,
+  "gabinete_certificado_seleccionado": false
+}

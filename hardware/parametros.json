@@ -1,0 +1,15 @@
+{
+  "version": "0.1",
+  "estado": "ANTEPROYECTO_NO_FABRICAR",
+  "pcb_mm": {"largo": 80, "ancho": 50, "espesor": 1.6, "margen_fijacion": 4, "taladro_fijacion": 3.2},
+  "bandeja_mm": {"margen": 4, "espesor": 3, "separador_alto": 6, "separador_diametro": 7},
+  "caja_referencia_mm": {"largo": 120, "ancho": 80, "alto": 60, "pared": 3},
+  "modulo_reserva_mm": {"largo": 40, "ancho": 20, "alto": 12, "medido": false},
+  "bateria": {"quimica": "Li-ion 1S", "nominal_V": 3.7, "maximo_V": 4.2, "capacidad_mAh": null, "reserva_mm": [70, 22, 22], "dimensiones_verificadas": false},
+  "cabezal_referencia_mm": {"largo": 40, "ancho": 35, "alto": 25, "ventana_reserva_diametro": 10, "cable_reserva_diametro": 8},
+  "protector_mm": {"diametro": 70, "platos": 6, "paso": 10, "espesor": 2, "abertura_interior_diametro": 58},
+  "cable_sensor_ensayo_mm": 100,
+  "divisor": {"R1_ohm": 150000, "R2_ohm": 150000, "C1_F": 1e-7},
+  "autonomia_dias_requeridos": 35,
+  "notas": "Cotas de estudio sin gabinete ni modulos medidos. No constituyen certificacion IP ni demostracion IPC."
+}
